@@ -4,3 +4,5 @@ HW*-solution.ipynb
 HW*.ipynb
 *_utils.py
 _WK*.ipynb
+*.py.*
+*.pyc
