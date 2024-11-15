@@ -6,3 +6,4 @@ HW*.ipynb
 _WK*.ipynb
 *.py.*
 *.pyc
+data/image/lfw
