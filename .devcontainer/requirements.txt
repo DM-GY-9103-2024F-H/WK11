@@ -1,3 +1,4 @@
+ipykernel
 ipywidgets
 matplotlib
 pandas
@@ -5,6 +6,3 @@ scikit-learn
 torch
 torchvision
 tqdm
-# torch==2.3.0
-# torchvision==0.18.0
-# tqdm==4.66.4

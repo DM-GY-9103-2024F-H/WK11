@@ -1,5 +1,6 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  // "image": "mcr.microsoft.com/devcontainers/python:3.10",
+  "image": "pytorch/pytorch:latest",
   "hostRequirements": {
     "cpus": 2
   },
